@@ -1,7 +1,7 @@
 # Real_time_object_detection
 # Aim: To detect real time object detection using python and yolov4.
-# Reg.No:212223230060
-# Name: GANJI MUNI MADHURI
+# Reg.No:212223230062
+# Name: GEDIPUDI DARSHANI
 ## Procedure:
 Step1: Install Required Libraries
 Step2: Download YOLOv4 Weights and Configuration Files
