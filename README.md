@@ -3,12 +3,14 @@
 # Reg.No:212223230062
 # Name: GEDIPUDI DARSHANI
 ## Procedure:
+```
 Step1: Install Required Libraries
 Step2: Download YOLOv4 Weights and Configuration Files
 Step3: Load YOLOv4 in Python
 Step4: Set Up the Video Stream
 Step5: Adjust Confidence and Non-Max Suppression Thresholds
 Step6: Running the Script
+```
 # Program:
 ```
 import cv2
